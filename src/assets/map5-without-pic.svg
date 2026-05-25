@@ -1,0 +1,26 @@
+<svg width="1440" height="1024" viewBox="0 0 1440 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1440" height="1024" fill="none"/>
+<path id="room-519" class="room-hotspot" data-room="519" data-floor="5" d="M639.5 237H572V330H639.5V237Z" fill="#F18174" fill-opacity="0.01"/>
+<path id="room-517" class="room-hotspot" data-room="517" data-floor="5" d="M640 423L572.5 424V329L640 330V423Z" fill="#F18174" fill-opacity="0.01"/>
+<path id="room-511" class="room-hotspot" data-room="511" data-floor="5" d="M643 469.5L573.5 475.5L576.5 506L578.5 522L581.5 538.5L586 553.5L592.5 568L599.5 580.5L607.5 590L618.5 599.5L674 549.5L662 530.5L655.5 519.5L651 507.5L647 494L644.5 482.5L643 469.5Z" fill="#F18174" fill-opacity="0.01"/>
+<path id="room-509L" class="room-hotspot" data-room="509L" data-floor="5" d="M678 651L620.5 601.5L618.5 599.5L673.5 550L683.5 560.5L693.5 569.5L727 598L678 651Z" fill="#F18174" fill-opacity="0.01"/>
+<path id="room-509R" class="room-hotspot" data-room="509R" data-floor="5" d="M734 698L780.5 642.5L727 598L678.5 651L734 698Z" fill="#F18174" fill-opacity="0.01"/>
+<path id="room-507" class="room-hotspot" data-room="507" data-floor="5" d="M843 696L780 642.5L734 698.5L797.5 752L843 696Z" fill="#F18174" fill-opacity="0.01"/>
+<!-- <path id="room-1" class="room-hotspot" data-room="男厕所" data-floor="5" d="M843 696.5L874 722.5L829.5 779L798 752L843 696.5Z" fill="#F18174" fill-opacity="0.01"/> -->
+<!-- <path id="room-2" class="room-hotspot" data-room="楼梯" data-floor="5" d="M904.5 748.5L873.5 722.5L829.5 779.5L860 805.5L904.5 748.5Z" fill="#F18174" fill-opacity="0.01"/> -->
+<!-- <path id="room-3" class="room-hotspot" data-room="楼梯" data-floor="5" d="M787 833L819 859.5L772.5 920L740 893L787 833Z" fill="#F18174" fill-opacity="0.01"/> -->
+<!-- <path id="room-4" class="room-hotspot" data-room="女厕所" data-floor="5" d="M786.5 833L756 808L708.5 867.5L739.5 893L786.5 833Z" fill="#F18174" fill-opacity="0.01"/> -->
+<path id="room-508" class="room-hotspot" data-room="508" data-floor="5" d="M756 808L689 754L642.5 812.5L709 867.5L756 808Z" fill="#F18174" fill-opacity="0.01"/>
+<path id="room-510" class="room-hotspot" data-room="510" data-floor="5" d="M689.5 753.5L627 702.5L579 761L642 812.5L689.5 753.5Z" fill="#F18174" fill-opacity="0.01"/>
+<path id="room-512" class="room-hotspot" data-room="512" data-floor="5" d="M627 702.5L571 656.5L521 713L579 761L627 702.5Z" fill="#F18174" fill-opacity="0.01"/>
+<!-- <path id="room-5" class="room-hotspot" data-room="中部楼梯" data-floor="5" d="M499.5 573L437.5 599.5L443 613.5L451.5 631L459 644.5L470.5 660L524.5 617L518.5 607.5L512 596.5L506.5 586.5L499.5 573Z" fill="#F18174" fill-opacity="0.01"/> -->
+<path id="room-514" class="room-hotspot" data-room="514" data-floor="5" d="M493.5 445L424.5 446.5L425.5 526.5L494.5 525.5L493.5 445Z" fill="#F18174" fill-opacity="0.01"/>
+<path id="room-516" class="room-hotspot" data-room="516" data-floor="5" d="M492.5 367H423L424.5 446L494 444.5L492.5 367Z" fill="#F18174" fill-opacity="0.01"/>
+<path id="room-518L" class="room-hotspot" data-room="518L" data-floor="5" d="M491.5 299.5L422.5 301L423 367L492.5 367.5L491.5 299.5Z" fill="#F18174" fill-opacity="0.01"/>
+<path id="room-518R" class="room-hotspot" data-room="518R" data-floor="5" d="M490 233L421 232.5L422 301L491 299.5L490 233Z" fill="#F18174" fill-opacity="0.01"/>
+<!-- <path id="room-520" class="room-hotspot" data-room="电梯" data-floor="5" d="M439.5 214H423V230H439.5V214Z" fill="#F18174" fill-opacity="0.01"/> -->
+<path id="room-520" class="room-hotspot" data-room="520" data-floor="5" d="M440 200.5H423V209H440V200.5Z" fill="#F18174" fill-opacity="0.01"/>
+<!-- <path id="room-7" class="room-hotspot" data-room="519" data-floor="5" d="M639 197H571.5V236.5H639V197Z" fill="#F18174" fill-opacity="0.01"/> -->
+<!-- <path id="room-9" class="room-hotspot" data-room="519" data-floor="5" d="M640 423L572.5 424L573 475.5L642.5 469L641.5 460L641 451.5L640.5 439.5L640 423Z" fill="#F18174" fill-opacity="0.01"/> -->
+<!-- <path id="room-8" class="room-hotspot" data-room="519" data-floor="5" d="M801.5 470.5H750V492H801.5V470.5Z" fill="#F18174" fill-opacity="0.01"/> -->
+</svg>

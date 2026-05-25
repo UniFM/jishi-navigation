@@ -1,0 +1,51 @@
+<svg width="1440" height="1024" viewBox="0 0 1440 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1440" height="1024" fill="none"/>
+<rect id="room-414" class="room-hotspot" data-room="414" data-floor="4" x="410" y="421" width="68" height="103" fill="#F18174" fill-opacity="0.01"/>
+<rect id="room-416" class="room-hotspot" data-room="416" data-floor="4" x="409" y="321" width="67" height="100" fill="#F18174" fill-opacity="0.01"/>
+<rect id="room-418" class="room-hotspot" data-room="418" data-floor="4" x="406" y="232" width="70" height="89" fill="#F18174" fill-opacity="0.01"/>
+<rect id="room-419" class="room-hotspot" data-room="419" data-floor="4" x="556" y="236" width="68" height="93" fill="#F18174" fill-opacity="0.01"/>
+<rect id="room-417" class="room-hotspot" data-room="417" data-floor="4" x="558" y="329" width="66" height="92" fill="#F18174" fill-opacity="0.01"/>
+<!-- <rect id="room-426" class="room-hotspot" data-room="426" data-floor="4" x="403" y="49" width="38" height="37" fill="#F18174" fill-opacity="0.01"/> -->
+<!-- <rect id="room-428" class="room-hotspot" data-room="428" data-floor="4" x="441" y="49" width="39" height="39" fill="#F18174" fill-opacity="0.01"/> -->
+<rect id="room-426" class="room-hotspot" data-room="426" data-floor="4" class="room-hotspot" data-floor="4" x="480" y="49" width="81" height="39" fill="#F18174" fill-opacity="0.01"/>
+<!-- <rect id="room-409" class="room-hotspot" data-room="409" data-floor="4" x="556" y="196" width="68" height="40" fill="#F18174" fill-opacity="0.01"/> -->
+<rect id="room-430" class="room-hotspot" data-room="430" data-floor="4" x="660" y="59" width="150" height="42" fill="#F18174" fill-opacity="0.01"/>
+<rect id="room-432" class="room-hotspot" data-room="432" data-floor="4" x="852" y="59" width="26" height="38" fill="#F18174" fill-opacity="0.01"/>
+<rect id="room-434" class="room-hotspot" data-room="434" data-floor="4" x="878" y="59" width="39" height="38" fill="#F18174" fill-opacity="0.01"/>
+<!-- <rect id="room-426" class="room-hotspot" data-room="426" data-floor="4" class="room-hotspot" data-floor="4" x="919" y="59" width="39" height="38" fill="#F18174" fill-opacity="0.01"/> -->
+<rect id="room-440" class="room-hotspot" data-room="440" data-floor="4" class="room-hotspot" data-floor="4" x="849" y="199" width="62" height="32" fill="#F18174" fill-opacity="0.01"/>
+<rect id="room-442" class="room-hotspot" data-room="442" data-floor="4" class="room-hotspot" data-floor="4" x="849" y="231" width="62" height="37" fill="#F18174" fill-opacity="0.01"/>
+<rect id="room-444" class="room-hotspot" data-room="444" data-floor="4" x="849" y="268" width="60" height="49" fill="#F18174" fill-opacity="0.01"/>
+<!-- <rect id="room-417" class="room-hotspot" data-room="417" data-floor="4" x="969" y="220" width="50" height="32" fill="#F18174" fill-opacity="0.01"/> -->
+<rect id="room-441" class="room-hotspot" data-room="441" data-floor="4" x="967" y="252" width="52" height="60" fill="#F18174" fill-opacity="0.01"/>
+<!-- <rect id="room-419" class="room-hotspot" data-room="419" data-floor="4" x="409" y="196" width="32" height="33" fill="#F18174" fill-opacity="0.01"/> -->
+<path id="room-412" class="room-hotspot" data-room="412" data-floor="4" d="M506.5 713.5L554.5 656.5L611.5 703L563.5 760L506.5 713.5Z" fill="#F18174" fill-opacity="0.01"/>
+<path id="room-408" class="room-hotspot" data-room="408" data-floor="4" d="M741.5 807.5L673.5 753L626 813.5L693 867L741.5 807.5Z" fill="#F18174" fill-opacity="0.01"/>
+<path id="room-410" class="room-hotspot" data-room="410" data-floor="4" d="M674 752.5L612 703L563.5 760L627.5 812.5L674 752.5Z" fill="#F18174" fill-opacity="0.01"/>
+<!-- <path id="room-407" class="room-hotspot" data-room="407" data-floor="4" d="M771.5 833L741.5 809L693.5 868L724 893.5L771.5 833Z" fill="#F18174" fill-opacity="0.01"/> -->
+<!-- <path id="room-450" class="room-hotspot" data-room="450" data-floor="4" d="M858.5 721.5L828 696.5L782.5 752L813.5 778.5L858.5 721.5Z" fill="#F18174" fill-opacity="0.01"/> -->
+<!-- <path id="room-451" class="room-hotspot" data-room="451" data-floor="4" d="M890.5 748L858 722L813.5 778.5L845 804.5L890.5 748Z" fill="#F18174" fill-opacity="0.01"/> -->
+<!-- <path id="room-456" class="room-hotspot" data-room="456" data-floor="4" d="M804 859L772 833L725 893L757 919.5L804 859Z" fill="#F18174" fill-opacity="0.01"/> -->
+<!-- <path id="room-455" class="room-hotspot" data-room="455" data-floor="4" d="M953 842.5L847 980L778 921.5L882.5 786.5L953 842.5Z" fill="#F18174" fill-opacity="0.01"/> -->
+<path id="room-456" class="room-hotspot" data-room="456" data-floor="4" d="M1143 602.5L1093 563L1056.5 611.5L1109 650L1143 602.5Z" fill="#F18174" fill-opacity="0.01"/>
+<path id="room-455" class="room-hotspot" data-room="455" data-floor="4" d="M1199.5 525.5L1149 484.5L1116 527L1170.5 570L1199.5 525.5Z" fill="#F18174" fill-opacity="0.01"/>
+<!-- <path id="room-428" class="room-hotspot" data-room="428" data-floor="4" d="M1040.5 551L998.5 526L960.5 580.5L1001.5 605.5L1040.5 551Z" fill="#F18174" fill-opacity="0.01"/> -->
+<path id="room-450" class="room-hotspot" data-room="450" data-floor="4" d="M958 487C954.167 481.833 945.3 469.3 940.5 460.5L881 489L885 498L891 510.5L899 522.5L906.5 532L918.5 546.5L931 559.5L940.5 569L960 580L998.5 527L997 525.5L989 519.5L980 510.5L969.5 501L958 487Z" fill="#F18174" fill-opacity="0.01"/>
+<path id="room-448" class="room-hotspot" data-room="448" data-floor="4" d="M921.5 412.5L917.5 396L854 412.5L864.5 446L881.5 490.5L940 460.5L936.5 452.5L929 434L921.5 412.5Z" fill="#F18174" fill-opacity="0.01"/>
+<path id="room-446" class="room-hotspot" data-room="446" data-floor="4" d="M909 316.5H848L846.5 352V368L848 386L853 411L918 395L913 371.5L910.5 360L909 349.5V339.5V316.5Z" fill="#F18174" fill-opacity="0.01"/>
+<path id="room-443" class="room-hotspot" data-room="443" data-floor="4" d="M966.5 338V312.5H1018.5V345V353.5V360.5L1020.5 371.5L970.5 379.5L968 364L966.5 349.5V338Z" fill="#F18174" fill-opacity="0.01"/>
+<!-- <path id="room-443" class="room-hotspot" data-room="443" data-floor="4" d="M973 394L970.5 381L1020.5 373L1024 389L1029 403L1034 413.5L992.5 439L987 428.5L981.5 417.5L977.5 407L973 394Z" fill="#F18174" fill-opacity="0.01"/> -->
+<path id="room-451" class="room-hotspot" data-room="451" data-floor="4" d="M1041.5 423L1033.5 414L992 440L997 447.5L1009 460.5L1023 474L1044 489.5L1076 447.5L1064 440L1052 432L1041.5 423Z" fill="#F18174" fill-opacity="0.01"/>
+<!-- <path id="room-428" class="room-hotspot" data-room="428" data-floor="4" class="room-hotspot" data-floor="4" d="M1109 471L1076 448.5L1044.5 489.5L1076 513.5L1109 471Z" fill="#F18174" fill-opacity="0.01"/> -->
+<!-- <path id="room-428" class="room-hotspot" data-room="428" data-floor="4" d="M1169 576.5L1127.5 543L1108 568L1150.5 601L1169 576.5Z" fill="#F18174" fill-opacity="0.01"/> -->
+<path id="room-407" class="room-hotspot" data-room="407" data-floor="4" d="M827.5 695.5L764.5 642L718 698L782 751.5L827.5 695.5Z" fill="#F18174" fill-opacity="0.01"/>
+<path id="room-409" class="room-hotspot" data-room="409" data-floor="4" d="M671.5 563L658 549L603.5 599L719 697L765.5 642L671.5 563Z" fill="#F18174" fill-opacity="0.01"/>
+<!-- <path id="room-441" class="room-hotspot" data-room="441" data-floor="4" d="M623.5 486L622 475.5L547.5 483L549 504L551 529L555.5 549.5L566.5 570L576.5 581.5L591 596.5L649 546L645.5 540.5L637.5 527L631 513L627 498.5L623.5 486Z" fill="#F18174" fill-opacity="0.01"/> -->
+<!-- <path id="room-442" class="room-hotspot" data-room="442" data-floor="4" d="M625 422.5H557.5V475L628 468.5L626.5 456.5L625 437.5V422.5Z" fill="#F18174" fill-opacity="0.01"/> -->
+<!-- <path id="room-443" class="room-hotspot" data-room="443" data-floor="4" d="M495 594L484.5 573L422 599L425 607.5L431.5 621.5L441 638.5L455 659.5L509 616L495 594Z" fill="#F18174" fill-opacity="0.01"/> -->
+<!-- <rect id="room-451" class="room-hotspot" data-room="学生休闲" data-floor="4" x="664" y="158" width="130" height="68" fill="#F18174" fill-opacity="0.01"/> -->
+<path id="room-428" class="room-hotspot" data-room="428" data-floor="4" d="M615.5 50.5H561V90.5H623.5V60.5C623.333 59.3333 622.7 56.6 621.5 55C620.3 53.4 617 51.3333 615.5 50.5Z" fill="#F18174" fill-opacity="0.01"/>
+<!-- <rect id="room-451" class="room-hotspot" data-room="读书角" data-floor="4" x="967" y="177" width="34" height="40" fill="#F18174" fill-opacity="0.01"/> -->
+<!-- <rect id="room-451" class="room-hotspot" data-room="废弃电梯" data-floor="4" x="1003" y="202" width="15" height="15" fill="#F18174" fill-opacity="0.01"/> -->
+<!-- <rect id="room-451" class="room-hotspot" data-room="济事楼" data-floor="4" x="719" y="445" width="61" height="25" fill="#F18174" fill-opacity="0.01"/> -->
+</svg>
