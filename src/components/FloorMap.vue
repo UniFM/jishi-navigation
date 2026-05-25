@@ -2,7 +2,7 @@
 
 <script setup lang="ts">
 // Vue 组合式 API
-import { computed, nextTick, onBeforeUnmount, onMounted, ref, watch } from 'vue'
+import { nextTick, onBeforeUnmount, onMounted, ref, watch } from 'vue'
 // 房间类型
 import type { Room } from '../types/room'
 
@@ -35,11 +35,6 @@ const overlayRef = ref<HTMLDivElement | null>(null)
 const hotspotElements = new Map<string, Element>()
 // 用于销毁事件监听器
 const cleanupHandlers: Array<() => void> = []
-
-// 把 rooms 数组转成 Map
-const roomMap = computed(() => {
-  return new Map(props.rooms.map((room) => [room.id, room]))
-})
 
 // 清除所有事件监听器
 const clearHandlers = () => {
