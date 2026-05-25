@@ -48,6 +48,12 @@
 - 交互事件绑定在 SVG DOM 节点上（mouseenter / mousemove / mouseleave / click）
 - 右侧面板与地图位移动画使用 CSS 过渡保持连续性
 
+**公网访问与仓库同步**
+- 公网地址（GitHub Pages）：https://unifm.github.io/jishi-navigation/
+- 仓库地址：https://github.com/UniFM/jishi-navigation
+- 同步方式：推送到 `main` 分支后由 GitHub Actions 自动部署到 Pages
+- 若出现 404，通常是 Actions 构建/部署未完成或失败，等待完成后刷新
+
 **运行与开发**
 - 安装依赖：`npm install`
 - 本地开发：`npm run dev`
